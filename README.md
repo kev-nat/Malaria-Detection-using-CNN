@@ -1,1 +1,1 @@
-# malaria-detection
+check the .ipynb file
